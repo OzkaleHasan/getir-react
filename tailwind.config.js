@@ -4,6 +4,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      backgroundImage: {
+        'mobile-app': "url('https://cdn.getir.com/getirweb-images/common/illustration/doodle.png')",
+      },
+
       spacing: {
         '0.1': '0.063rem',
       },

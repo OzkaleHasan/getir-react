@@ -89,7 +89,7 @@ export default function Footer() {
         </div>
         <div className="flex justify-between items-center border-t border-gray-100 mt-6 py-6">
           <div className="text-xs text-gray-700 flex gap-x-8">
-            &copy; 2021 Getir
+            &copy; 2024 Getir
             <a href="#" className="text-primary-brand-color hover:underline relative before:w-[3px] before:h-[3px] before:bg-black before:absolute before:-left-4 before:top-1/2 before:-translate-y-1/2 before:rounded-full">
               Bilgi Toplumu Hizmetleri
             </a>
